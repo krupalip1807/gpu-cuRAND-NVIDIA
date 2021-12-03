@@ -1,4 +1,4 @@
-# cs67005-s2021-cuRAND
+# gpu-cuRAND-NVIDIA
 This project has implemented the Random number generation using the cuRAND library. It is implemented on Google Colab and Effie. 
 
 [[_TOC_]]
